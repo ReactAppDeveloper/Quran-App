@@ -1,0 +1,153 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/font/Poppins-Black.ttf",
+      "sha1": "86a24baced6e165f2d64901ea61b8a6f0efba553"
+    },
+    {
+      "path": "src/assets/font/Poppins-BlackItalic.ttf",
+      "sha1": "fc9a78f39a426c701511649f274066ca380427f6"
+    },
+    {
+      "path": "src/assets/font/Poppins-Bold.ttf",
+      "sha1": "cbe48c785f1af6bcd7320609094055e299481da9"
+    },
+    {
+      "path": "src/assets/font/Poppins-BoldItalic.ttf",
+      "sha1": "c4ae2c23829f83d18803663ceefe74cb47af6935"
+    },
+    {
+      "path": "src/assets/font/Poppins-ExtraBold.ttf",
+      "sha1": "6ed04065d66cbabcb49cd02e342f6459d6b2580e"
+    },
+    {
+      "path": "src/assets/font/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "497ae77063d462e927e238844659b08feaf31ac3"
+    },
+    {
+      "path": "src/assets/font/Poppins-ExtraLight.ttf",
+      "sha1": "20c587a55713abe55f036299b397470a7eaefbbf"
+    },
+    {
+      "path": "src/assets/font/Poppins-ExtraLightItalic.ttf",
+      "sha1": "686efa1dbebefd55d0da0b7ca9eace186ea1a8bf"
+    },
+    {
+      "path": "src/assets/font/Poppins-Italic.ttf",
+      "sha1": "785e2a61204720cfedf09b56891b295d576640b7"
+    },
+    {
+      "path": "src/assets/font/Poppins-Light.ttf",
+      "sha1": "ecceeecdfea053e23ee31bf56806fc39f9d32e7d"
+    },
+    {
+      "path": "src/assets/font/Poppins-LightItalic.ttf",
+      "sha1": "898a965bd3f73617e8964c40c707b0f2def96931"
+    },
+    {
+      "path": "src/assets/font/Poppins-Medium.ttf",
+      "sha1": "5c96d1545a51c39e05ee0fcc0c3c9021f14d9c31"
+    },
+    {
+      "path": "src/assets/font/Poppins-MediumItalic.ttf",
+      "sha1": "8ed5a8aba7a5a33dc9898992aecb424ca8abd6f0"
+    },
+    {
+      "path": "src/assets/font/Poppins-Regular.ttf",
+      "sha1": "440dc8992517a306d66e55cb0afed0cfe9b971b5"
+    },
+    {
+      "path": "src/assets/font/Poppins-SemiBold.ttf",
+      "sha1": "0dbbb6d5a8fa0f9ece415dda4a69c8aa6595fba5"
+    },
+    {
+      "path": "src/assets/font/Poppins-SemiBoldItalic.ttf",
+      "sha1": "c9ff23ca310c140c175a46d516e6cc261d8b9751"
+    },
+    {
+      "path": "src/assets/font/Poppins-Thin.ttf",
+      "sha1": "b55ce67e46964f1230492a16ef40a6186335658c"
+    },
+    {
+      "path": "src/assets/font/Poppins-ThinItalic.ttf",
+      "sha1": "6970a931d62a40d6d32a46abb91f754b8a24877c"
+    },
+    {
+      "path": "src/assets/font/Trochut-Bold.ttf",
+      "sha1": "afc0b8df3d543dcc7e84ffa50e82d291ab9a49b5"
+    },
+    {
+      "path": "src/assets/font/Trochut-Italic.ttf",
+      "sha1": "63c57df4c32f8c9acba62226ef172f961a351c7e"
+    },
+    {
+      "path": "src/assets/font/Trochut-Regular.ttf",
+      "sha1": "ff0198c310d2ca749d4c9f12b6c344d191391e59"
+    },
+    {
+      "path": "src/assets/font/arabic.ttf",
+      "sha1": "c15b1fda5d48bb6e6f3ccaeeb8a75bc773ad0722"
+    },
+    {
+      "path": "src/assets/font/arabic_Al_Mushaf_Quran.ttf",
+      "sha1": "f5a9dba1b021f3cc00d3ad4c402555722c1f49bf"
+    },
+    {
+      "path": "src/assets/font/arabic_Al_Qalam.ttf",
+      "sha1": "5e07ba320fddf90e7b8a2e3f5ad6cd3d4e104c59"
+    },
+    {
+      "path": "src/assets/font/arabic_AmiriQuran_Regular.ttf",
+      "sha1": "2786429533bb211f68ba50c7a6d705620f048d78"
+    },
+    {
+      "path": "src/assets/font/arabic_Indopak.ttf",
+      "sha1": "c15b1fda5d48bb6e6f3ccaeeb8a75bc773ad0722"
+    },
+    {
+      "path": "src/assets/font/arabic_Lateef_Regular.ttf",
+      "sha1": "62df3245d0effec8ac55fa4aed4f89ed28b17438"
+    },
+    {
+      "path": "src/assets/font/arabic_Madina.ttf",
+      "sha1": "c0107872be19de03a196d7d738888bb981c06234"
+    },
+    {
+      "path": "src/assets/font/arabic_Me_Quran_Regular.ttf",
+      "sha1": "03744d190c67dd17f11c22b52b9e67c0af74d316"
+    },
+    {
+      "path": "src/assets/font/arabic_PDMS_IslamicFont_Regular.ttf",
+      "sha1": "4b0e0943054b50ea17ce4beee5a11bb98ae214ea"
+    },
+    {
+      "path": "src/assets/font/arabic_PDMS_Saleem_QuranFont_Regular.ttf",
+      "sha1": "6317a8db41ac979d58b6f0577fba52223c608ef4"
+    },
+    {
+      "path": "src/assets/font/arabic_ScheherazadeNew_Regular.ttf",
+      "sha1": "f1c4f5dc9e2e88d6280ca2b85caa8ec8b80d2352"
+    },
+    {
+      "path": "src/assets/font/arabic_Tajweed.ttf",
+      "sha1": "cf6ecefbed0205a2a62e3c9797420707029cb153"
+    },
+    {
+      "path": "src/assets/font/arabic_Uthmani.ttf",
+      "sha1": "672e441d0f956bee65d6f87d9aa08b676d5300aa"
+    },
+    {
+      "path": "src/assets/font/arabic_noorehidayat_Regular.ttf",
+      "sha1": "e1d9b82ae23533e846bc3e56d7e280d22fcf7a93"
+    },
+    {
+      "path": "src/assets/font/arabic_noorehira_Regular.ttf",
+      "sha1": "79e25a3004dfdc8b464883e1f878dcba067f6ce4"
+    },
+    {
+      "path": "src/assets/font/arabic_noorehuda_Regular.ttf",
+      "sha1": "4409bb4fa5c8752e03c079c279e9c4e68f940a97"
+    }
+  ]
+}
